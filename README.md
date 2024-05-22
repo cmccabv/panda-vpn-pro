@@ -46,7 +46,7 @@
 | 开业日期 | 机场官网 | 类型 | 最低<br>倍率 | 月付套餐 | 不限时套餐 | 试用 | 优惠券 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2019.03.17 | [SAC](https://sachk.189.cam/index.php#/register?code=1YIbUxet) | 中转 | 1 | 9.99 / 130 GB | 84.99 / 500 GB | None | None |
-| 2020.04.22 | [次元雲](https://ciyy.cc/#/register?code=tsL8Me6h) | 中转 | 0.8 | 10.00 / 128 GB | 158.00 / 1024 GB | None | Nonw |
+| 2020.04.22 | [次元雲](https://www.dutaj.com/) | 中转 | 0.8 | 10.00 / 128 GB | 158.00 / 1024 GB | None | Nonw |
 | 2020.11.13 | [魔戒](https://www.mojie.me/#/register?code=WTsWNdvY) | 中转 | 1 | None | 14.90 / 130 GB | None | None |
 | 2022.05.10 | [SPCloud](https://aff.spcloud.vip/#/register?code=yg4YkPbp) | 中转 | 1 | 10.00 / 100 GB | 15.00 / 50 GB | None | None |
 | 2022.06.21 | [Frost](https://www.frostboutiques.top/#/register?code=XSWmt6KF) | 中转 | 1 | 6.00 / 80 GB | 13.00 / 88 GB<br>实际时长一年 | 1 hours | 9 折<br>`e9tb09De`<br>季付以上套餐可用<br>长期有效 |
@@ -59,7 +59,7 @@
 | 2023.02.09 | [极速云](https://512.jsy.lol/#/register?code=4nCrjaUd) | 中转 | 8 | 9.90 / 1000 GB | 50.00 / 1000 GB | None | 88 / 年 / (999 GB / 月)<br>158 / 年 / (1998 GB / 月)<br>666 / 年 / (8888 GB / 月)<br>长期有效 |
 | 2023.03.21 | [稳连云](https://xn--9kqq77hqun.com/#/register?code=3FUiUuE3) | 中转 | 1 | 10.00 / 150 GB | 40.00 / 88 GB | None | 66 / 年 / (128 GB / 月)<br>99 / 年 / (256 GB / 月)<br>58 / 不限时 / 200 GB<br>长期有效  |
 | 2023.05.01 | [农夫山泉](https://xn--j7q17p3xcgwy.lol/#/register?code=HvoPMFli) | 中转 | 1 | 8.00 / 200 GB | 15.00 / 200 GB | 48 hours | None |
-| 2023.05.02 | [TaiShan](https://us.taishan.pro/#/register?code=XyZ8XFmM) | 中转 | 1 | 10.00 / 128 GB | 27.00 / 150 GB | 24 hours | None |
+| 2023.05.02 | [TaiShan](https://www.53na.com/) | 中转 | 1 | 10.00 / 128 GB | 27.00 / 150 GB | 24 hours | None |
 | 2023.05.05 | [OvO](https://ovofast.com/index.php#/register?code=0pI5OPXj)<br>`*H` | 直连 | 1 | 1.00 / 100 GB | None | 72 hours | None |
 | 2023.07.01 | [蜂窝云](https://api.fwcloud.pro/auth/register?code=mnYBMQ) | 中转 | 1 | 10.00 / 200 GB | 22.00 / 200 GB | None | None | 
 | 2023.07.13 | [闲鱼网络](http://xianyuwangluo.top/#/register?code=Ziww4pbY) | 中转 | 1 | 5.00 / 100 GB | None | None | None |
